@@ -11,5 +11,4 @@
 	} else {
 		$output = "You entry is not valid, try again";
 	}
-	
 ?>
