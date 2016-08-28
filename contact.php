@@ -16,7 +16,6 @@
 		thegopherguy@yahoo.com
 	</p>
 	
-	
 <?php include "footer.php";  ?>
 	
 </body>
