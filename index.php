@@ -10,7 +10,7 @@
 <body>
 	 <?php include ("header.php");?>
 	 <h1>Welcome to our shopping cart</h1>
-	 <h5>Do you want to see a list of our <a href="browse.php">products</a></h5>
+	 <h5>Do you want to see a list of our <a href="browse.php">products?</a></h5>
 	<?php include ("footer.php");?>
 </body>
 </html>   
