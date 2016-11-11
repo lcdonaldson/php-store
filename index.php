@@ -5,8 +5,7 @@
 	<title>LCD Products</title>
 	<link rel="stylesheet" type="text/css"  href="css/styles.css">
 </head>
-
-
+<!-- simple ecomerce site example -->
 <body>
 	 <?php include ("header.php");?>
 	 <h1>Welcome to our shopping cart</h1>
