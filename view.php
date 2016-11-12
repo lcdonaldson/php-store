@@ -1,7 +1,6 @@
 <?php
 	$id = $_GET["id"];
 	// swapping the output variable to be represented by echo
-	// so that 
 	if ($id == "1") {
 		$output = "You have chosen a Mac";
 	} else if ($id == "2") {
